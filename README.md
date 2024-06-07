@@ -14,5 +14,5 @@ This is the backend for the Anime app. It provides API endpoints for user authen
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/AnimeBackend.git
+   git clone https://github.com/Ivanow07/AnimeBackend.git
    cd AnimeBackend
